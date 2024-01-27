@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 1440px;
+    padding: 30px 280px 30px 190px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+h5{
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    padding-right: 71px;
+}
+.nav-side{
+    padding-right: 240px;
+}
+.nav-side ul{
+    list-style: none;
+    display: flex;
+}
+.nav-side ul li{
+    padding: 0 21px;
+}
+.nav-side ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #737373;
+}
+.btn a{
+    color: #23A6F0;
+    text-decoration: none;
+    border: none;
+    background: none;
+}
+.btn-logo a{
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 25px;
+    background:  #23A6F0;
+    border-radius: 5px;
+}
+.btn-logo i{
+    font-size: 12px;
+}
+.text p{
+    text-align: center;
+    padding-top: 128px;
+    color: #23A6F0;
+    font-size: 14px;
+    padding-bottom: 40px;
+}
+.text-2 p{
+    width: 433px;
+    font-size: 58px;
+    color: #23A6F0;
+    text-align: center;
+    margin: 0 auto;
+}
+.logo{
+    gap: 45px;
+    display: flex;
+}
+.text-3{
+    color: #737373;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-weight: 400;
+    width: 545px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+.end-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.get a{
+    padding: 15px 40px;
+    background: #23A6F0;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
+.learn a{
+    padding: 15px 40px;
+    background: #23A6F0;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
+.second-card{
+    padding: 282px 195px;
+}
+.second-card h6{
+    color: #23A6F0;
+    font-size: 14px;
+}
+.second-card h2{
+    color: #252B42;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: 700;
+    padding: 10px 0;
+}
+.second-card p{
+    color: #737373;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    width: 469px;
+    padding-bottom: 115px;
+}
+.box{
+    display: flex;
+    gap: 10px;
+}
+.box img{
+    padding: 22px 19px;
+    background: red;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.first h2{
+    color: #252B42;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+.second h2{
+    color: #252B42;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+.third h2{
+    color: #252B42;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+.border{
+    border-bottom: 2px solid #E74040;
+    width: 50px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+.first p{
+    color: #737373;
+    width: 222px;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+}
+.second p{
+    color: #737373;
+    width: 222px;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+}
+.third p{
+    color: #737373;
+    width: 222px;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+}
+.first{
+    background: #FFF;
+    box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
+    padding: 35px 40px;
+    height: 310px;
+    width: 350px;
+}
+.second{
+    background: #FFF;
+    box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
+    padding: 35px 40px;
+    height: 310px;
+    width: 350px;
+}
+.third{
+    background: #FFF;
+    box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
+    padding: 35px 40px;
+    height: 310px;
+    width: 350px;
+}
+.hero-logo{
+    padding: 160px 195px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #B2E3FF;
+}
+.boder-agin{
+    border-bottom: 7px solid #E74040;
+    width: 94px;
+    
+}
+.right-side h4{
+    color: #252B42;
+    font-size: 40px;
+    font-weight: 700;
+    width: 290px;
+    padding-top: 35px;
+}
+.right-side p{
+    color: #737373;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    padding: 35px 0;
+    width: 351px;
+}
+.btn-hero a{
+    color:  #23A6F0;
+    font-size: 14px;
+    text-decoration: none;
+}
+.btn-hero .imag-co{
+    display: flex;
+    height: 16px;
+}
+.btn-hero{
+    display: flex;
+    gap: 10px;
+}
+.music{
+    padding-bottom: 220px;
+}
+.song{
+    margin-left: 210;
+}
