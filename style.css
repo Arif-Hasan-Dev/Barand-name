@@ -244,5 +244,212 @@ h5{
     padding-bottom: 220px;
 }
 .song{
-    margin-left: 210;
+    margin-top: -104px;
+    margin-left: 123px;
+}
+.card-section{
+    padding: 160px 195px;
+    /* width: 1050px;
+    height: 1212px; */
+}
+.simple-one{
+    color: #23A6F0;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+.simple-two{
+    color:#252B42;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.simple-three{
+    color: #737373;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    width: 342px;
+    padding-bottom: 80px;
+}
+.img-section{
+    position: relative;
+    width: 348px;
+    height: 300;
+}
+.icon-logo{
+    position: absolute;
+    top: 22px;
+    left: 30px;
+    border-radius: 3px;
+    background: #E74040; 
+    padding: 0px 10px; 
+}
+.icon-thre{
+    position: absolute;
+    top: 220px;
+    left: 115px;
+    padding: 10px 10px;
+}
+.icon-thre img{
+    padding: 10px 10px;
+    background: #FFF;
+    border-radius: 50%;
+}
+.star{
+    display: flex;
+    gap: 5px;
+}
+.card-text{
+    display: flex;
+}
+.card-text h5{
+    color: #23A6F0;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+}
+.black{
+    color: #252B42;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 11px 0;     
+}
+.focus{
+    color: #737373;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    width: 300px;
+}
+.card-one{
+    width: 348px;
+}
+.download-t{
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.download-t p{
+    color:  #737373;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700; 
+}
+.doller{
+    display: flex;
+    gap: 5px;
+}
+.vanis{
+    color: #BDBDBD;
+    font-family: 'Montserrat';
+    font-size: 16px;
+}
+.doller-two{
+    color:  #40BB15;
+    font-size: 16px;
+    font-family: 'Montserrat';
+}
+.time{
+    display: flex;
+    gap: 5px;
+    width: 298px;
+    align-items: center;
+}
+.lesson{
+    display: flex;
+    gap: 5px;
+    width: 298px;
+    align-items: center;
+}
+.proces{
+    display: flex;
+    gap: 5px;
+    width: 298px;
+    align-items: center;
+}
+.three-head{
+    display: flex;
+    gap: 20px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    width: 298px;
+}
+.time img{
+    width: 16px;
+}
+.lesson img{
+    width: 16px;
+}
+.proces img{
+    width: 16px;
+}
+.time p{
+    color: #737373;
+    font-size: 12px;
+}
+.lesson p{
+    color: #737373;
+    font-size: 12px;
+}
+.proces p{
+    color: #737373;
+    font-size: 12px;
+}
+.btn-card{
+    display: flex;
+    gap: 10px;
+    border: 1px solid #23A6F0;
+    padding: 10px 20px;
+    width: 152px;
+    border-radius: 37px;
+}
+.btn-card a{
+    color: #23A6F0;
+    font-size: 14px;
+    font-family: 'Montserrat';
+    font-weight: 700; 
+    text-decoration: none;
+}
+.btn-card img{
+    width: 9.143px;
+    height: 16px; 
+}
+.card-logo-sec{
+    display: flex;
+    gap: 10px;
+}
+.sec-img{
+    width: 348px;
+    height: 300px;
+}
+.sec-img-two{
+    width: 348px;
+    height: 300px;
+}
+.sec-img-three{
+    width: 348px;
+    height: 300px;
+}
+.card-text-one{
+    padding: 25px 25px;
+}
+.card-text-two{
+    padding: 25px 25px;
+}
+.card-text-three{
+    padding: 25px 25px;
+}
+
+.important-sec{
+    padding: 160px 195px;
 }
